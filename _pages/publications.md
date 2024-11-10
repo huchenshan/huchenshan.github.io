@@ -1,7 +1,7 @@
 ---
 layout: archive
-# title: "Papers under Revision"
-title: "Publications"
+title: "Papers under Revision"
+# title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
