@@ -57,7 +57,9 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.award %}
-      <p>{{ post.award }}</p>
+      <ul>
+        <li>{{ post.award }}</li>
+      </ul>
     {% endif %}
 
   </article>
