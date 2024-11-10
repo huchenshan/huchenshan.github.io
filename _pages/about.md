@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently a Ph.D. candidate in Supply Chain, Operations, and Technology at the Olin Business School, Washington University in St. Louis, advised by Prof. Dennis Zhang. I received my A.M. in Statistics degree from Washington University in St. Louis and B.A. in Mathematics degree from University of Cambridge.
 
-My research focuses on data-driven problems in platform operations, environmental sustainability and healthcare operations.
+Email: chenshan.hu [at] wustl.edu
+
+My research focuses on data-driven problems in sustainable operations, social operations and platform operations.
 
 
