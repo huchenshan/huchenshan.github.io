@@ -1,3 +1,1 @@
-# huchenshan.github.io
-
-Here is the webpage for Chenshan Hu
+Link of my personal page can be found here: https://chenshanhu.org
