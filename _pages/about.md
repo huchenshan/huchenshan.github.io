@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chenshan Hu [(CV)](https://zh1yu4nyu.github.io/files/CV_Chenshan_Hu.pdf)" 
+title: "Chenshan Hu [(CV)](https://huchenshan.github.io/files/CV_Chenshan_Hu.pdf)" 
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiyuan Yu"
+title                    : "Chenshan Hu"
 title_separator          : "-"
-name                     : &name "Zhiyuan Yu"
+name                     : &name "Chenshan Hu"
 description              : &description "PhD Candidate at Washington University in St. Louis"
-url                      : https://zh1yu4nyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huchenshan369.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhiyuanyu"
+repository               : "huchenshan"
 teaser                   : "bio.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,18 +75,18 @@ social:
 analytics:
   provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  G-6QNDP2R354
+    tracking_id          :  G-6QNDP2R
 
 
 # Site Author
 author:
-  name             : "Zhiyuan Yu"
+  name             : "Chenshan Hu"
   avatar           : "bio.jpg"
-  bio              : "PhD Candidate in Computer Science & Engineering, Washington University in St. Louis"
+  bio              : "PhD Candidate in Supply Chain, Operations, and Technology, Washington University in St. Louis"
   location         : "St. Louis, Missouri"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=z4UYftwAAAAJ&hl=en"
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zh1yu4nyu"
+  github           : "huchenshan369"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
-  orcid            : "https://orcid.org/0000-0001-6196-7598"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
