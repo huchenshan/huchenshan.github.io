@@ -1,5 +1,5 @@
 ---
-title: "Green E-commerce:Environmental Impact of Fast Delivery"
+title: "Green E-commerce: Environmental Impact of Fast Delivery"
 collection: publications
 permalink: /publication/2024-04-17-green-ecommerce
 excerpt: ''
